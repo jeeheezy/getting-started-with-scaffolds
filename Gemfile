@@ -82,6 +82,7 @@ gem "htmlbeautifier"
 gem "http"
 gem "sqlite3", "~> 1.4"
 gem "table_print"
+gem "draft_generators", :github => "firstdraft/draft_generators"
 
 group :development do
   gem "annotate"
